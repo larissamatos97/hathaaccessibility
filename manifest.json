@@ -1,0 +1,20 @@
+{
+  "name": "Wellhub Check Plugin",
+  "id": "1648238670202440483",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "https://fonts.googleapis.com",
+      "https://fonts.gstatic.com",
+      "https://lottie.host"
+    ]
+  }
+}
